@@ -4,7 +4,7 @@
 
 
 ## 🌟 Overview
-The **Clicky Comment Bot** is a fun and easy-to-use bot designed to **automatically post engaging comments** related to **Solana-based Memecoins** in the **Pump Fun** community. It uses a pre-defined `comments.txt` file to post random or sequential comments, helping to keep the conversation lively and engaging! 🎉
+The **Clicky Comment Bot** is a fun and easy-to-use bot designed to **automatically post engaging comments** related to **Solana-based Memecoins** in the **Pump Fun** community. It uses a pre-defined `phrases.txt` file to post random or sequential comments, helping to keep the conversation lively and engaging! 🎉
 
 ---
 
