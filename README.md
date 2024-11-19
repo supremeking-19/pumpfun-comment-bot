@@ -30,7 +30,7 @@ Before setting up the bot, make sure you have:
 
 1. **Clone the repository or Download this repository**:
 2. **Install dependencies** using ```npm i``` (be sure to do the command in the project folder)
-3. **Check** ```comments.txt```
+3. **Check** ```phrases.txt```
 4. **Run the bot**  ```node main.js```
 
  ### 💬 Usage
