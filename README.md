@@ -1,4 +1,4 @@
-# 🚀 Clicky - Pump Fun Comment Bot for Memecoins on Solana 💰
+#  Clicky - Pump Fun Comment Bot for Memecoins on Solana 
 
 ![image](https://github.com/user-attachments/assets/7e2beef8-90a3-436d-871c-23a8104f8b58)
 
@@ -20,8 +20,8 @@ The **Clicky Comment Bot** is a fun and easy-to-use bot designed to **automatica
 ### 📋 Prerequisites
 
 Before setting up the bot, make sure you have:
-- **Node.js** (v16 or higher) 🌐
-- **NPM** (or Yarn) for managing packages 📦
+- **Node.js** (v16 or higher) 
+- **NPM** (or Yarn) for managing packages 
 
 
 ---
