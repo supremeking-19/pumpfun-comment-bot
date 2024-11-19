@@ -9,7 +9,7 @@ The **Clicky Comment Bot** is a fun and easy-to-use bot designed to **automatica
 ---
 
 ## 🔥 Features
-- **🚀 Automatic Comment Posting**: Posts random or sequential comments from a `comments.txt` file.
+- **🚀 Automatic Comment Posting**: Posts random or sequential comments from a `phrases.txt` file.
 - **💸 Memecoin Engagement**: Automatically shares **memecoin-related** comments to spark conversation in the Pump Fun community.
 - **⚡ Simple Setup**: Quick and easy setup to get the bot running in no time!
 
